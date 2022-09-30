@@ -1,6 +1,6 @@
 # Code: Wireless Image Transmission Using Deep Source Channel Coding with Attention Modules
 Adaptive/Attention Deep Joint Source Channel Coding
-![Image text](https://github.com/alexxu1988/ADJSCC/tree/main/pics/AF_Module.png)
+![Image text](./pics/AF_Module.png)
 # Datasets:
 CIFAR-10 is from inner tensorflow.keras.datasets.cifar10.<br>
 ImageNet is manually made and is too huge to upload.
